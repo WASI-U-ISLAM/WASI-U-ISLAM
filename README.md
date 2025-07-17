@@ -1,3 +1,6 @@
+<h1 align="center">Hey there 👋, I'm WASI</h1>
+<h3 align="center">Learning, evolving, living—one bug at a time.</h3>
+
 [![](https://visitcount.itsvg.in/api?id=WASI-U-ISLAM&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![](https://github-profile-trophy.vercel.app/?username=WASI-U-ISLAM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
