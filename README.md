@@ -1,5 +1,8 @@
 <h1 align="center">Hey there 👋, I'm WASI</h1>
-<h3 align="center">Learning, evolving, living—one bug at a time.</h3>
+<h3 align="center">I am an ungraduate student</br>
+Doing Batchlor of Science (BSc) Degree</br> in Computer Science & Engineering (CSE)</br>
+At American International University Bangladesh (AIUB)
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasi-u-islam&label=Profile%20views&color=0e75b6&style=flat" alt="wasi-u-islam" /> </p>
 
