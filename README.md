@@ -6,8 +6,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=WASI-U-ISLAM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ![](https://github-readme-stats.vercel.app/api?username=WASI-U-ISLAM&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=WASI-U-ISLAM&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WASI-U-ISLAM&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WASI-U-ISLAM&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=WASI-U-ISLAM&theme=dark&hide_border=false)
 
 # 💫 About Me:
 🌱 I’m currently learning Html, Css, JavaScript<br>💬 Ask me about Marvel/Dc or about movies<br>⚡ Fun fact I think sometimes i'm a singer or artist but most of the time i'm busy with my gadgets and getting interest in movies
