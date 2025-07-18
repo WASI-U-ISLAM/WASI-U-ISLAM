@@ -5,7 +5,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=WASI-U-ISLAM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://github-readme-stats.vercel.app/api?username=WASI-U-ISLAM&theme=dark&hide_border=false&include_all_commits=true&count_private=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![9c33192f83a3a3010723f2943bb1c137-ezgif com-resize (1)](https://github.com/user-attachments/assets/128c3765-ac5d-4b08-adaf-6f0b7f0cd39f)
+![](https://github-readme-stats.vercel.app/api?username=WASI-U-ISLAM&theme=dark&hide_border=false&include_all_commits=true&count_private=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![thor-ezgif com-resize](https://github.com/user-attachments/assets/7c49d0fe-18bb-4ef1-bf59-9a14111d8d83)
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WASI-U-ISLAM&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
