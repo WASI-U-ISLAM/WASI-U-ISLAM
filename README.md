@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm WASI</h1>
 <h3 align="center">Learning, evolving, living—one bug at a time.</h3>
 
-[![](https://visitcount.itsvg.in/api?id=WASI-U-ISLAM&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasi-u-islam&label=Profile%20views&color=0e75b6&style=flat" alt="wasi-u-islam" /> </p>
 
 ![](https://github-profile-trophy.vercel.app/?username=WASI-U-ISLAM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -11,6 +11,11 @@
 
 # 💫 About Me:
 🌱 I’m currently learning Html, Css, JavaScript<br>💬 Ask me about Marvel/Dc or about movies<br>⚡ Fun fact I think sometimes i'm a singer or artist but most of the time i'm busy with my gadgets and getting interest in movies
+
+<div align="center">
+  
+![snake gif](https://github.com/WASI-U-ISLAM/WASI-U-ISLAM/blob/output/github-snake-dark.svg)
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/9ZCyVVdG) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/wasi.islam.568) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/r_wasi_24/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wasi-u-islam-112258296/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Wasi2447) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Islamwasi891@gmail.com) 
