@@ -8,7 +8,7 @@ At American International University Bangladesh (AIUB)
 
 ![](https://github-profile-trophy.vercel.app/?username=WASI-U-ISLAM&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://github-readme-stats.vercel.app/api?username=WASI-U-ISLAM&theme=dark&hide_border=false&include_all_commits=true&count_private=false)&nbsp;&nbsp;&nbsp;&nbsp;![thor3](https://github.com/user-attachments/assets/7b0bf399-3f23-4b8c-8e37-f99641ea61d3)
+![](https://github-readme-stats.vercel.app/api?username=WASI-U-ISLAM&theme=dark&hide_border=false&include_all_commits=true&count_private=false)&nbsp;&nbsp;![thor3](https://github.com/user-attachments/assets/7b0bf399-3f23-4b8c-8e37-f99641ea61d3)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WASI-U-ISLAM&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
