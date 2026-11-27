@@ -32,9 +32,7 @@ At American International University Bangladesh (AIUB)
 </div>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=WASI-U-ISLAM&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=WASI-U-ISLAM&theme=react-dark&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=WASI-U-ISLAM&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
